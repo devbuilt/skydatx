@@ -1,0 +1,30 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Leo Tejeda",
+  "company": "devbuiltlabs.com",
+  "info": "Single Application License Your use of the item is restricted to a single installation.You may use the item in work which you are creating for your own purposes or for your client.You must not incorporate the item in a work which is created for redistribution or resale by you or your client The item may not be redistributed or resold If the item contains licensed componentsthose components must only be used within the item and you must not extract and use them on a stand-alone basis If the item was created using materials which are the subject of a GNU General Public License GPL your use of the item is subject to the terms of the GPL in place of the foregoing conditions (to the extent the GPL applies ",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "alertifyjs": "^1.11.0",
+    "body-parser": "~1.17.1",
+    "compression": "^1.7.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "ejs": "~2.5.6",
+    "express": "~4.15.2",
+    "express-ajax": "^1.0.2",
+    "express-php": "0.0.1",
+    "getcomposer": "^1.3.3",
+    "mailgun-js": "^0.13.1",
+    "morgan": "~1.8.1",
+    "nodemailer": "^4.1.0",
+    "serve-favicon": "^2.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
